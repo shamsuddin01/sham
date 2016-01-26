@@ -1,0 +1,17 @@
+<html>
+
+   <head>
+       <title>Hello Boy How Are You</title>
+   </head>
+
+<body>
+
+    <?php
+
+       echo <p>This is test perpase.</p>
+   
+
+     ?>
+   
+</body>
+</html>
